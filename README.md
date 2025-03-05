@@ -10,3 +10,9 @@ The whole app is divided into 3 sections: Overview, which shows the big picture 
 The data for this project was gathered individually by every person participating, from 05.12.2024 to 19.01.2025. 
 
 While it's always better to run the app locally (as it minimizes the likelihood of various hosting server errors - such as one of the charts not working in the online version while working fine locally), here we do also post a link to an online version of the complete dashboard: https://adawojterska.shinyapps.io/twdprojekt2/
+
+### Authors
+
+- [Hanna Szczerbinska](https://github.com/zabolot7)
+- [Ada Wojterska](https://github.com/adawojterska)
+- [Martyna Sadowska](https://github.com/martyna-265)
